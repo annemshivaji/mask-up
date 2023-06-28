@@ -14,6 +14,8 @@
 
 ### Dataset  : https://drive.google.com/drive/folders/1rtjOvsmx9X-mkrcXWFnTcYhH-YZ9jxfV
 
+### Project Report : https://drive.google.com/file/d/1FILjngiEBbyXriQ61rfYgAR-HHjhpUEW/view?usp=drive_link
+
 ### Assignment 1 : https://drive.google.com/file/d/16VAwo2z6mOtWwGMrMlrtxiIxZga_8x9Z/view?usp=drive_link
 
 ### Assignment 2 : https://drive.google.com/file/d/1taf0EUn6lbfurLqJKL-wWibcumjqGeZ7/view?usp=drive_link
