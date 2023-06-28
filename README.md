@@ -1,4 +1,9 @@
-# Face Mask Detection
+# MASK-UP ( Face Mask Detection )
 
-- put index.html in a folder called templates
-- put deploy.prototxt, Face Mask Detection using Python, res10_300x300_ssd_iter in a folder called face_detector
+## 1) Video Demo : 
+### https://www.youtube.com/watch?v=LMotgOeGeRk
+
+## 2) Instructions to run the code :
+### > After downloading the code, run detect_mask_video.py.
+### > Then run app.py
+### NOTE : you may need to install some libraries for running these python files. Use pip install command to install those libraries.
