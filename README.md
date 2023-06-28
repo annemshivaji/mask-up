@@ -1,6 +1,7 @@
 # MASK-UP ( Face Mask Detection )
 
-### Video Demo : https://www.youtube.com/watch?v=LMotgOeGeRk
+## Video Demo : 
+### https://www.youtube.com/watch?v=LMotgOeGeRk
 
 ## Instructions to run the code :
 ### 1) After downloading the code, run detect_mask_video.py.
