@@ -1,8 +1,8 @@
 # import the necessary packages
 from keras.applications.mobilenet_v2 import preprocess_input
+from imutils.video import VideoStream
 from keras.utils import img_to_array
 from keras.models import load_model
-from imutils.video import VideoStream
 import numpy as np
 import imutils
 import time

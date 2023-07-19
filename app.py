@@ -84,12 +84,12 @@ def detect_and_predict_mask(frame, faceNet, maskNet):
 	return (locs, preds)
 def generate_frames():
     # Load the face detector model
-    prototxtPath = "face_detector/deploy.prototxt"
-    weightsPath = "face_detector/res10_300x300_ssd_iter_140000.caffemodel"
+    prototxtPath = "mask-up/face_detector/deploy.prototxt"
+    weightsPath = "mask-up/face_detector/res10_300x300_ssd_iter_140000.caffemodel"
     faceNet = cv2.dnn.readNet(prototxtPath, weightsPath)
 
     # Load the face mask detector model
-    maskNet = load_model("mask_detector.model")
+    maskNet = load_model("mask-up/mask_detector.model")
 
     # Initialize the video stream
     print("[INFO] starting video stream...")
